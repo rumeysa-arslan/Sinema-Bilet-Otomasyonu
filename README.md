@@ -17,14 +17,6 @@ Bu proje, bir sinema salonunun bilet satış, müşteri yönetimi ve film kayıt
 * **Veritabanı:** Microsoft SQL Server (MSSQL)
 * **Geliştirme Ortamı:** Visual Studio 2022
 
-## 📸 Ekran Görüntüleri
+## Projenin çalışır haldeki videosu
+[SİNEMA.zip](https://github.com/user-attachments/files/26307942/SINEMA.zip)
 
-*(Projenin ekran görüntülerini GitHub'a yükledikten sonra bu kısımlara resim linklerini ekleyebilirsin.)*
-
-* **Ana Menü:** * **Bilet Satış Ekranı:** * **Satış Raporları Ekranı:** ## 🚀 Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
-
-1. Bu depoyu (repository) bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/Sinema-Otomasyonu.git](https://github.com/KULLANICI_ADINIZ/Sinema-Otomasyonu.git)
