@@ -18,5 +18,6 @@ Bu proje, bir sinema salonunun bilet satış, müşteri yönetimi ve film kayıt
 * **Geliştirme Ortamı:** Visual Studio 2022
 
 ## Projenin çalışır haldeki videosu
-[SİNEMA.zip](https://github.com/user-attachments/files/26307942/SINEMA.zip)
+
+[SINEMA_BILETI.zip](https://github.com/user-attachments/files/26308340/SINEMA_BILETI.zip)
 
